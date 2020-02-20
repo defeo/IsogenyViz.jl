@@ -1,0 +1,11 @@
+name = "IsogenyViz"
+uuid = "fde0e519-b7f7-4a99-83f4-3d7fed5a7c63"
+authors = ["Luca De Feo <defeo@pippin>"]
+version = "0.1.0"
+
+[deps]
+ClassPolynomials = "b32a9e82-a894-5370-a7cd-81481c2f7fd8"
+EllipticCurves = "8b467937-f421-5993-812e-e26e8851a539"
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
+Luxor = "ae8d54c2-7ccd-5906-9d76-62fc9837b5bc"
+Nemo = "2edaba10-b0f1-5616-af89-8c11ac63239a"
