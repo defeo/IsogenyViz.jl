@@ -1,0 +1,3 @@
+julia -e 'Base.compilecache(Luxor)'
+julia -e 'Base.compilecache(Nemo)'
+julia -e 'Base.compilecache(IsogenyViz)'
